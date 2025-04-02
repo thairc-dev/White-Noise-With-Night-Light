@@ -84,9 +84,7 @@ Chúng tôi có thể cập nhật chính sách này và sẽ thông báo cho b�
 
 ### 6. Liên hệ
 Để được hỗ trợ về quyền riêng tư hoặc kỹ thuật:
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
-- 💬 GitHub Issues: [GitHub Repository URL]
+- 📧 Email: thairc.dev@gmail.com
 
 ---
 
