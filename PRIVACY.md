@@ -42,10 +42,7 @@ We may update this policy and will notify you of significant changes through:
 
 ### 6. Contact Us
 For privacy concerns or technical support:
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
-- 💬 GitHub Issues: [GitHub Repository URL]
-
+- 📧 Email: thairc.dev@gmail.com
 ---
 
 ## Tiếng Việt
